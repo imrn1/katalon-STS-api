@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>__Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d2423a7a-fa00-4f74-aa15-f6ec55b27237</testSuiteGuid>
+   <testCaseLink>
+      <guid>d7015564-4663-420a-bfc9-e57a4e79aa14</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/_Custom Cases/_Token alma</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5cb6605d-7388-4bf5-80b7-8d48c0003f57</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>70caac41-1142-4fb5-bd49-44ea2af477fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/__Test case</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e51652be-be82-482c-9d1a-335b724e91b5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TEST/wallet list</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>&quot;bsn14sipay@hotmail.com&quot;</value>
+         <variableId>c580e696-eeb4-403c-b4a4-422d3ad7cd79</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e51652be-be82-482c-9d1a-335b724e91b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expected_status</value>
+         <variableId>5de708e3-bfb7-4b74-838b-4d6e04353d9b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "5C14EE732F53217937537C6D5BFC645E",
+  "keywordClasses": [
+    {
+      "name": "customKeyword.Account",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.Wallet",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.Balance",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.TransactionLimits",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.KycInfo",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

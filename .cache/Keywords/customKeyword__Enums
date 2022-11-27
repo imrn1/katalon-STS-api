@@ -1,0 +1,18 @@
+{
+  "keywordFileContentHash": "D7B772F6532BF2F60C6A9B7D337C85AC",
+  "keywordClasses": [
+    {
+      "name": "customKeyword.Enums",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.Enums$KycLevel",
+      "keywordMethods": []
+    },
+    {
+      "name": "customKeyword.Enums$AccountType",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
